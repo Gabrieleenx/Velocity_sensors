@@ -77,3 +77,25 @@ The controleller box is printed in 2 pices, bottom and top, both in PLA. The con
 
 
 ## Build guide
+
+See below for how to solder on the componenets or chech the gerberfiles. The same pattern follows for all 3 sensors. 
+
+![Alt Text](images/build_guide.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
